@@ -44,17 +44,3 @@
 - **Multi-Language Support**: Expand support to additional languages like Japanese and French.
 - **Community Features**: Allow users to share reviews and travel experiences.
 
----
-
-## Contributing
-
-We welcome contributions to improve NanJing Go! Please open issues for bugs or feature requests, and create pull requests for fixes or enhancements.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
